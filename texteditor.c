@@ -1,4 +1,4 @@
-#include "hw6.h"
+#include "texteditor.h"
 
 int main(int argc, char *argv[]) {
 //checks for input and output files
